@@ -1,4 +1,4 @@
-class BTree<T>
+public class BTree<T>
 {
 	private TreeNode<T> head;
 
